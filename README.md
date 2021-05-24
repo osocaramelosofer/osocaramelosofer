@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![osocaramelosofer's GitHub stats](https://github-readme-stats.vercel.app/api?username=osocaramelosofer)](https://github.com/osocaramelosofer/github-readme-stats)
+![osocaramelosofer's GitHub stats](https://github-readme-stats.vercel.app/api?username=osocaramelosofer&show_icons=true&theme=radical)
+
 
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
