@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hello world! 👋
+🔭 I’m currently working on web projects.
+🌱 I’m currently learning vue, django
 <!--
 **osocaramelosofer/osocaramelosofer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><img src="https://github.com/osocaramelosofer/osocaramelosofer/issues/1#issue-900038313" alt="Hola"/></p>
 ![osocaramelosofer's GitHub stats](https://github-readme-stats.vercel.app/api?username=osocaramelosofer&show_icons=true&theme=radical)
 
 
