@@ -1,6 +1,6 @@
 ### Hello world! 👋
 🔭 I’m currently working on web projects.
-🌱 I’m currently learning vue, django
+🌱 I’m currently learning vue, django, react, react native and practice my css.
 <!--
 **osocaramelosofer/osocaramelosofer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
